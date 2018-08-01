@@ -1,0 +1,19 @@
+.transparent25 {
+    filter: alpha(Opacity=60);
+    opacity: 0.60;
+}
+.transparentMK {
+    filter: alpha(Opacity=80);
+    opacity: 0.80;
+}
+.transparentVideo {
+    filter: alpha(Opacity=60);
+    opacity: 0.60;
+}
+.textCenterrr {
+    text-align: center;
+}
+.hren {
+    color: red;
+    text-align: center;
+}
